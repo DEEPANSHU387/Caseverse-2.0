@@ -85,16 +85,17 @@ Tools & Technologies
 - Strategic Analysis
 - Dashboard Design
 
-Repository Structure
 
-```
-├── Group Health Insurance Dashboard.pbix
-├── HR Analytics Dashboard.pbix
-├── Dataset
-├── Presentation
-├── Dashboard Images
-└── README.md
+Dashboard Preview
 
+
+Group Health Insurance Dashboard
+
+Dashboard 1 (https://github.com/DEEPANSHU387/Caseverse-2.0/blob/main/Screenshot%202026-07-16%20214933.png)
+
+HR Analytics Dashboard
+
+Dashboard 2 (https://github.com/DEEPANSHU387/Caseverse-2.0/blob/main/Screenshot%202026-07-16%20201731.png)
 
 Key Outcomes
 
